@@ -1,7 +1,7 @@
 import pygame
 from sys import exit
 
-# test
+#tezi
 
 def spawn_squares():
     row_count = 3
